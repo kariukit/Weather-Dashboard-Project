@@ -6,14 +6,14 @@ The challenge in this assignment was to build a weather dashboard that will run 
 
 The challenge required the use of OpenWeather One Call API  to retrieve weather data for citiesand to localStorage to store any persistent data.
 
-#The user story for this project:
+# The user story for this project:
 
 1. AS A traveler
 2. I WANT to see the weather outlook for multiple cities
 3. SO THAT I can plan a trip accordingly
 
 
-#The Acceptance Criteria for this Project:
+# The Acceptance Criteria for this Project:
 
 1. GIVEN a weather dashboard with form inputs
 2. WHEN I search for a city
@@ -28,13 +28,13 @@ The challenge required the use of OpenWeather One Call API  to retrieve weather 
 11. THEN I am again presented with current and future conditions for that city
 
 
-#The mock-up for this project was as seen in the image below:
+# The mock-up for this project was as seen in the image below:
 
 ![06-server-side-apis-homework-demo](https://user-images.githubusercontent.com/108309963/188719209-b85e302f-e28f-4ba9-86e7-60ce05b8e1db.png)
 
 
 
 You can view My deployed page using the link below:
-#https://kariukit.github.io/Weather-Dashboard-Project/
+# https://kariukit.github.io/Weather-Dashboard-Project/
 
 
